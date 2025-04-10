@@ -1,6 +1,6 @@
 <h1 align="center">Hey, soy zAlexOfc</h1>
 <p align="center">
-  <img src="https://i.imgur.com/qzD4Zs7.png" alt="Mommy AIGIS" width="180" style="border-radius: 15px;" />
+  <img src="https://github.com/zAlexHvHcc/zAlexHvHcc/blob/main/pic3.png" alt="Mommy AIGIS" width="180" style="border-radius: 15px;" />
 </p>
 
 <p align="center">
