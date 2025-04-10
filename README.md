@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>HvH Developer | Android Hacker | Creador de soluciones reales</b>  
+  <b>HvH Developer | Android Hacker | Cracker de la vieja escuela</b>  
 </p>
 
 ---
@@ -12,19 +12,19 @@
 ### Sobre mí
 - **Username:** @zAlexHvHcc  
 - **Email público:** [zalexofchvhcc@gmail.com](mailto:zalexofchvhcc@gmail.com)  
-- **Ubicación:** Desde la cueva del caos, haciendo magia con código  
-- **¿Disponible para trabajar?:** Claro que sí, papi siempre está ready  
+- **Ubicación:** En mi cueva, con Termux en una mano y el crack en la otra  
+- **Disponible para trabajar:** Claro mi amor, papi nunca descansa  
 
 ---
 
 ### ¿Qué hago?
-- Creo herramientas, optimizaciones y mods para Android y Minecraft PvP
-- Automatizo, configuro y pruebo todo en entorno mobile (sin PC, solo puro ingenio)
-- Comparto todo lo que aprendo para que otros también puedan brillar
+- Desarrollo soluciones para Android PvP, sin perder el toque underground  
+- Modifico y optimizo sin piedad  
+- Crackeo con clase desde mi PC, pero todo lo firmo desde el móvil como rey
 
 ---
 
-### Tecnologías que uso:
+### Tecnologías que domino:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -33,19 +33,19 @@
 
 ---
 
-### Estadísticas del papi:
+### Stats del king:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zAlexHvHcc&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zAlexHvHcc&layout=compact&theme=radical)
 
 ---
 
-### Conecta conmigo:
-- **YouTube:** [Próximamente el canal del rey](#)
-- **Discord:** zAlexOfc  
+### Conecta con papi:
+- **YouTube:** [Próximamente el canal del papi hacker](#)
+- **Discord:** `zalexhvhcc`  
 - **Email:** [zalexofchvhcc@gmail.com](mailto:zalexofchvhcc@gmail.com)
 
 ---
 
 ```txt
 Diseño por AlexOfc. Código por Alex.  
-Github con estilo, como todo lo que toco.
+Crackeando el sistema desde que tengo memoria.
