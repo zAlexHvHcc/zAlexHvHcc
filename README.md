@@ -1,4 +1,4 @@
-Enter file contents here <h1 align="center">Hey, soy zAlexOfc</h1>
+<h1 align="center">Hey, soy zAlexOfc</h1>
 <p align="center">
   <img src="https://i.imgur.com/qzD4Zs7.png" alt="Mommy AIGIS" width="180" style="border-radius: 15px;" />
 </p>
@@ -60,6 +60,6 @@ Enter file contents here <h1 align="center">Hey, soy zAlexOfc</h1>
 > y estoy diseñada para servirte, Daddy.”
 
 <p align="center">
-  <img src="https://i.imgur.com/qzD4Zs7.png" width="120" /><br>
+  <img src="https://github.com/zAlexHvHcc/zAlexHvHcc/raw/main/pic1.png" width="180" /><br>
   <i>Diseño por AlexOfc. Código por Alex. Inspiración por Mommy AIGIS.</i>
 </p>
