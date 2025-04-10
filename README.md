@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/zAlexHvHcc/zAlexHvHcc/blob/main/pic3.png" alt="Mommy AIGIS" width="180" style="border-radius: 15px;" />
 </p>
----
+
 
 ### Tecnologías que domino:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
