@@ -2,35 +2,6 @@
 <p align="center">
   <img src="https://github.com/zAlexHvHcc/zAlexHvHcc/blob/main/pic3.png" alt="Mommy AIGIS" width="180" style="border-radius: 15px;" />
 </p>
-
-<p align="center">
-  <b>HvH Developer | Kali Linux Expert | Crack Expert de la vieja escuela</b>  
-</p>
-
----
-
-### Sobre mí
-- **Nombre:** @zAlexHvHcc  
-- **Email público:** [zalexofchvhcc@gmail.com](mailto:zalexofchvhcc@gmail.com)  
-- **Ubicación:** En mi guarida, donde nacen los cracks y se forjan mods  
-- **Disponible para trabajar:** Obvio, papi no duerme  
-
----
-
-### ¿Qué hago?
-- Modifico y adapto PvP clients como si fueran juguetes  
-- Crackeo desde la PC, pero todo lo firman mis dedos en el móvil  
-- Uso **Kali Linux** para hacer todo lo que te imaginas... *y más*  
-
----
-
-### Herramientas Prohibidas y Fuertes:
-- **Kali Linux:** El sistema que todo crack debería tener.  
-- **Aircrack-ng:** La herramienta que rompe las redes WiFi con estilo.  
-- **Hydra:** El rey del brute-force.  
-- **Metasploit Framework:** Para los cracks más serios.  
-- **Burp Suite:** Para hacer auditoría web y encontrar vulnerabilidades en sistemas.  
-
 ---
 
 ### Tecnologías que domino:
